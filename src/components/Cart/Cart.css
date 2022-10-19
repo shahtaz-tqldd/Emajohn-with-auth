@@ -3,3 +3,16 @@
     top: 0;
     padding: 30px 20px;
 }
+
+.cart button{
+    display: block;
+    width: 100%;
+    padding: 10px 0;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    background-color: rgb(255, 121, 121);
+    color: #fff;
+    font-size: 16px;
+}
